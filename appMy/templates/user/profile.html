@@ -62,9 +62,9 @@
                 <div class=" card bg-transparent">
 
                 {% if i.image %}
-                <img src="{{ i.image.url }}" class="card-img-top" alt="">
+                <img src="{{ i.image.url }}" class="card-img-top" height="220px" alt="{{ i.title }}">
                 {% else %}
-                <img src="{% static 'img/smile-icon.jpg' %}" class="card-img-top" alt="">
+                <img src="{% static 'img/smile-icon.jpg' %}" class="card-img-top" alt="{{ i.title }}">
                 {% endif %}
                 <div>
                     <h5 class="card-title text-center ">{{ i.title }}</h5>

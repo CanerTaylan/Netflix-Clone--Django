@@ -77,7 +77,7 @@ def accountPage(request,id):
             else:
                 messages.warning(request, "Şifreniz yanlış !!!")
 
-        return redirect("accountPage")
+        return redirect("accountPage", id=id)
 
 
 
