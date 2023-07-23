@@ -8,5 +8,6 @@
 4. Profil silme
 5. Kullanıcı e-mail | telefon | şifre değiştirme
 ---
-(http://ctaylan.pythonanywhere.com)
+![medium](http://ctaylan.pythonanywhere.com)
 ---
+![anasayfa](/pics/main_page.jpg)
