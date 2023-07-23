@@ -8,5 +8,5 @@
 4. Profil silme
 5. Kullanıcı e-mail | telefon | şifre değiştirme
 ---
-[medium] (http://ctaylan.pythonanywhere.com)
+[] (http://ctaylan.pythonanywhere.com)
 ---
