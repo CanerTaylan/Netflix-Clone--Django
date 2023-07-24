@@ -10,15 +10,18 @@
 ---
 [Proje linki](http://ctaylan.pythonanywhere.com)
 ---
-**Anasayfa**
-![anasayfa](/pics/main_page.jpg)
-**Register**
-![register](/pics/register.jpg)
-**Login**
-![login](/pics/login.jpg)
-**Profil**
-![profile](/pics/profil.jpg)
-**Hesap**
-![hesap](/pics/hesap.jpg)
-**Girişli Sayfa**
-![girişli](/pics/dizi-film.jpg)
+- **Anasayfa**
+<img src="/pics/main_page.jpg" alt="AnaSayfa" height="250">
+
+- **Register | Login**
+
+<img src="/pics/register.jpg" alt="register" height="250"> <img src="/pics/login.jpg" alt="login" height="250">
+
+- **Profil**
+<img src="/pics/profil.jpg" alt="profil" height="250">
+
+- **Hesap**
+<img src="/pics/hesap.jpg" alt="hesap" height="250">
+
+- **Girişli Sayfa**
+<img src="/pics/dizi-film.jpg" alt="GirişliSayfa" height="250">
